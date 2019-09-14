@@ -18,5 +18,28 @@
     <ClCompile Include="StroustrupExercises.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ex_4_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex_4_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex_4_5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex_4_1.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex_4_4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex_4_5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

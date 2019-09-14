@@ -1,11 +1,14 @@
 // StroustrupExercises.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
-#include <iostream>
+#include "stdafx.h"
+#include "Ex_4_1.h"
+#include "Ex_4_4.h"
+#include "Ex_4_5.h"
 
 int main()
 {
-    std::cout << "Hello World11!\n";
+	//GuessNumberGame(); Ex_4_4
+	Calculator(); //Ex_4_5
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
