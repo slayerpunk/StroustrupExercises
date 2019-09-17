@@ -4,11 +4,11 @@
 #include "Ex_4_1.h"
 #include "Ex_4_4.h"
 #include "Ex_4_5.h"
+#include "Ex_4_6.h"
 
 int main()
 {
-	//GuessNumberGame(); Ex_4_4
-	Calculator(); //Ex_4_5
+	ConvertDigitToString();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
