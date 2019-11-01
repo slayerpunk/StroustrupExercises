@@ -5,10 +5,13 @@
 #include "Ex_4_4.h"
 #include "Ex_4_5.h"
 #include "Ex_4_6.h"
+#include "Ex_4_11.h"
+#include "Ex_4_13_Eratosthen.h"
 
 int main()
 {
-	ConvertDigitToString();
+	//ConvertDigitToString();
+	SieveOfEratosthenes(10000000);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
